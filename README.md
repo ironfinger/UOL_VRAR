@@ -1,2 +1,1 @@
-# UOL_VRAR
-My Virtual Reality Coursework
+Starting point for CMP3754M VR Workshop
